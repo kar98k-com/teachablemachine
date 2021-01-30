@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+h1 {
+text-align: center;
+color: white;
+}
+h2{
+ margin: 10px 10px 0px 150px;
+ height: 10px;
+ color: white;
+}
+button{
+    margin: 20px 10px 10px 150px;
+}
+#msg{
+    color: #131111;
+    margin-top: -255px;
+    margin-left: 407px;
+    font-size: 60px;
+}
